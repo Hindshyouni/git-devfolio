@@ -96,6 +96,7 @@
     border: 10px solid  #c0d2e7;
 
 }
+
 .blue_section{
     background: linear-gradient(rgba(14, 102, 255, 0.7), rgba(14, 102, 255, 0.7)),
     url("../img/counters-bg.jpg");
@@ -108,25 +109,27 @@
 }
 
 .icon-blue{
-    border: 10px solid  #c0d2e7;
-    width: max-content;
-    height: max-content;
+    border: 10px solid #c0d2e7;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
-    width: max-content;
-    height: max-content;
+    width: 90px;
+    height: 90px;
     margin: 0 auto;
-    padding: 25px;
 
+}
+.icon-blue i{
+    padding: 15px;
 }
 .span-portofolo-color{
     color: #0078ff ;
 }
 .icon-portofoli{
-    width: max-content;
-    height: max-content;
-    padding: 10px;
+    width: 70px;
+    height: 70px;
+    padding: 18px;
     background-color: white;
-    border: 3px solid  #0078ff;
+    border: 3px solid #0078ff;
     border-radius: 50%;
     margin: 0 15px;
 }
@@ -141,6 +144,7 @@
   height: 70vh;
     
 }
+
 .last-section{
     background: linear-gradient(rgba(14, 102, 255, 0.7), rgba(14, 102, 255, 0.7)),
     url("../img/overlay-bg.jpg");
